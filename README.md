@@ -23,7 +23,7 @@
 
 ## 🔥 Streak Stats
 <p>
-  <img src="https://streak-stats.demolab.com?user=rain-8bit&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=lexiscandyy&theme=tokyonight" />
 </p>
 
 ---
